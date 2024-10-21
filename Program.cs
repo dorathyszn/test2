@@ -1,8 +1,4 @@
-﻿using System;
-using System.IO;
-using System.Globalization;
-using System.Text.RegularExpressions;
-class Program
+﻿class Program
 {
     static void Main()
     {
